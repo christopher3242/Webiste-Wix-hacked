@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Swf Test</title>
+    <style>
+body {
+  background-color: #16a0ae;
+}
+      
+  </body>
+</html>
+</style></head>
+  <body>
+    <p><a href="file:///C:/Users/Christopher/Documents/GitHub/Website/Games%20Folder/index%20games.html"
+
+        title="Back to Index">Back</a></p>
+    <p><a href="file:///C:/Users/Christopher/Documents/GitHub/Website/Games%20Folder/index%20games.html"
+
+        title="Back to Index"><br>
+      </a></p>
+    <p><a href="file:///C:/Users/Christopher/Documents/GitHub/Website/Games%20Folder/index%20games.html"
+
+        title="Back to Index"><br>
+      </a></p>
+    <p><a href="file:///C:/Users/Christopher/Documents/GitHub/Website/Games%20Folder/index%20games.html"
+
+        title="Back to Index"><br>
+      </a></p>
+    <script src="https://xxsibxx.github.io/ruffleembedsetup112/ruffle/ruffle.js"></script>
+    <div class="swf" dir="ltr" style="text-align: left;" trbidi="on"> <embed pluginspage=" http://www.macromedia.com/go/getflashplayer"
+
+        src="SWF%20FILE%20URL" type="application/x-shockwave-flash" height="480"
+
+        width="620"> </div>
+    
+  </body>
+</html>
