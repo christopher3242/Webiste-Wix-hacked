@@ -4,6 +4,4 @@
 
 
   <a href="https://discord.gg/ParSSqQ6ue">
-   <img.shields.io/discord/1005974143575019672?style=flat&label=Discord&labelColor=abcdef&color=fedcba&cacheSeconds=3600>
-
-  
+   <img alt="Discord" src="https://img.shields.io/discord/1005974143575019672?label=Discord%20severs">
